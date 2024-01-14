@@ -184,14 +184,14 @@ h6 {
 }
 
 #hero .btn-get-started {
-  background: #82D5F7;
-  border: 2px solid #82D5F7;
+  background:none;
+  border: 2px solid #fff;
   color: #fff;
 }
 
 #hero .btn-get-started:hover {
-  background: none;
-  border: 2px solid #fff;
+  background:  #82D5F7;
+  border: 2px solid  #82D5F7;
   color: #fff;
 }
 
