@@ -9,7 +9,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #03C4EB;
+  color: #82D5F7;
   transition: 0.5s;
 }
 
@@ -71,7 +71,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #03C4EB;
+  background: #82D5F7;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -151,7 +151,7 @@ h6 {
 #hero h2 span {
   color: #fff;
   transition: 0.3s;
-  border-bottom: 2px solid #03C4EB;
+  border-bottom: 2px solid #82D5F7;
 }
 
 @media (max-width: 768px) {
@@ -184,8 +184,8 @@ h6 {
 }
 
 #hero .btn-get-started {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: #82D5F7;
+  border: 2px solid #82D5F7;
   color: #fff;
 }
 
@@ -201,8 +201,8 @@ h6 {
 }
 
 #hero .btn-services:hover {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: #82D5F7;
+  border: 2px solid #82D5F7;
 }
 
 /*--------------------------------------------------------------
@@ -299,7 +299,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 .navbar .dropdown ul {
@@ -334,7 +334,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 .navbar .dropdown:hover>ul {
@@ -429,7 +429,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 .navbar-mobile .getstarted,
@@ -464,7 +464,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -496,7 +496,7 @@ section {
 .section-title-divider {
   width: 50px;
   height: 3px;
-  background: #03C4EB;
+  background: #82D5F7;
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -570,7 +570,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 .features .icon-box p {
@@ -602,10 +602,10 @@ section {
 
 #services .service-icon {
   float: left;
-  background: #03C4EB;
+  background: #82D5F7;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #03C4EB;
+  border: 1px solid #82D5F7;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -624,7 +624,7 @@ section {
 }
 
 #services .service-item:hover .service-icon i {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 #services .service-title {
@@ -858,7 +858,7 @@ section {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -906,7 +906,7 @@ section {
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -938,11 +938,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #03C4EB;
+  border: 1px solid #82D5F7;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #03C4EB;
+  background-color: #82D5F7;
 }
 
 .portfolio-details .portfolio-info {
@@ -1008,7 +1008,7 @@ section {
 
 #testimonials .profile h4 {
   font-weight: 700;
-  color: #03C4EB;
+  color: #82D5F7;
   margin-bottom: 5px;
 }
 
@@ -1083,7 +1083,7 @@ section {
 }
 
 #team .member .social a:hover {
-  color: #03C4EB;
+  color: #82D5F7;
 }
 
 #team .member .social i {
@@ -1101,7 +1101,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  background: #03C4EB;
+  background: #82D5F7;
   color: #151515;
   float: left;
   width: 44px;
@@ -1196,7 +1196,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #03C4EB;
+  border-color: #82D5F7;
 }
 
 .contact .php-email-form input {
@@ -1208,7 +1208,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #03C4EB;
+  background: #82D5F7;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1259,7 +1259,7 @@ section {
 .counts .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #03C4EB;
+  color: #82D5F7;
   float: left;
 }
 
